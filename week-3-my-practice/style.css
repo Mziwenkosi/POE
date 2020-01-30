@@ -1,0 +1,16 @@
+body{
+
+    background-image: url('image.jfif');
+}
+h1{
+
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+    color:red;
+}
+
+p{
+    text-align: center;
+    color:red;
+}
